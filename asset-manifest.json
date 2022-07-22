@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React-GitHubFinder/static/css/main.85d0aa36.css",
-    "main.js": "/React-GitHubFinder/static/js/main.21cc9b1b.js",
-    "index.html": "/React-GitHubFinder/index.html",
-    "main.85d0aa36.css.map": "/React-GitHubFinder/static/css/main.85d0aa36.css.map",
-    "main.21cc9b1b.js.map": "/React-GitHubFinder/static/js/main.21cc9b1b.js.map"
+    "main.css": "/http://onurbbr.github.io/React-GitHubFinder/static/css/main.85d0aa36.css",
+    "main.js": "/http://onurbbr.github.io/React-GitHubFinder/static/js/main.d7f0e1fe.js",
+    "index.html": "/http://onurbbr.github.io/React-GitHubFinder/index.html",
+    "main.85d0aa36.css.map": "/http://onurbbr.github.io/React-GitHubFinder/static/css/main.85d0aa36.css.map",
+    "main.d7f0e1fe.js.map": "/http://onurbbr.github.io/React-GitHubFinder/static/js/main.d7f0e1fe.js.map"
   },
   "entrypoints": [
     "static/css/main.85d0aa36.css",
-    "static/js/main.21cc9b1b.js"
+    "static/js/main.d7f0e1fe.js"
   ]
 }
